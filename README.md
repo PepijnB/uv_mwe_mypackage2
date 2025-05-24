@@ -1,0 +1,1 @@
+This repo is created as a Minimum Working Example for this [ticket](https://github.com/astral-sh/uv/issues/11452). It is mentioned is [this comment](https://github.com/astral-sh/uv/issues/11452#issuecomment-2906973412)
